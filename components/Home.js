@@ -38,7 +38,7 @@ function Home() {
 
   // Movies list
   useEffect(() => {
-    fetch("https://back-mymoviz.manupuyuelo.com/movies")
+    fetch("https://mymoviz-back.manupuyuelo.com/movies")
       .then((response) => response.json())
       .then((data) => {
         const formatedData = data.movies.map((movie) => {
