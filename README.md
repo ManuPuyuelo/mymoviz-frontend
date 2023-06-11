@@ -1,4 +1,4 @@
-# Mymoviz - Frontend
+# 🍿 Mymoviz - Frontend
 
 Web app for tracking favorite movies
 
